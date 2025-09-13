@@ -1,0 +1,594 @@
+2025-09-11 21:18:55,366 - INFO - Running test: Connection Validation
+2025-09-11 21:19:06,651 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/info "HTTP/1.1 200 OK"
+2025-09-11 21:19:06,669 - INFO - Running test: Basic CRUD Operations
+2025-09-11 21:19:06,926 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:07,170 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:07,195 - INFO - Running test: Batch Operations
+2025-09-11 21:19:07,465 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:07,712 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:07,941 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:19:08,215 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:08,471 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:08,815 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:19:09,115 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:09,365 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:09,636 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:19:09,963 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:10,206 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:10,455 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:19:10,472 - INFO - Running test: Metadata Filtering
+2025-09-11 21:19:10,736 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:10,988 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:11,250 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:11,504 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:11,753 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:11,981 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:19:11,985 - INFO - Running test: Search Quality
+2025-09-11 21:19:12,246 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:12,489 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:12,739 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:13,000 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:13,323 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:13,603 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:19:13,615 - INFO - Running test: Performance Benchmark
+2025-09-11 21:19:13,864 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:14,139 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:14,405 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:14,679 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:15,016 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:15,297 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:15,545 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:15,786 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:16,036 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:16,290 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:16,605 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:16,858 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:17,107 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:17,350 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:17,621 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:17,895 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:18,291 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:18,531 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:19:18,535 - INFO - Running test: Error Handling
+2025-09-11 21:19:18,788 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:19,055 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 422 Unprocessable Entity"
+2025-09-11 21:19:19,665 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:19,932 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:20,183 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:19:20,196 - INFO - Running test: Data Integrity
+2025-09-11 21:19:20,441 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:20,711 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:20,982 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:21,289 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:21,598 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:21,850 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:22,102 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:22,346 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:19:22,578 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:20:30,203 - INFO - 🚀 Starting comprehensive vector database validation...
+2025-09-11 21:20:30,204 - INFO - Running test: Connection Validation
+2025-09-11 21:20:41,554 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/info "HTTP/1.1 200 OK"
+2025-09-11 21:20:41,561 - WARNING - ⚠️  Connection Validation: FAIL (11.357s)
+2025-09-11 21:20:41,563 - INFO - Running test: Basic CRUD Operations
+2025-09-11 21:20:41,825 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:42,094 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:42,107 - WARNING - ⚠️  Basic CRUD Operations: FAIL (0.544s)
+2025-09-11 21:20:42,109 - INFO - Running test: Batch Operations
+2025-09-11 21:20:42,674 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:42,922 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:43,156 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:20:43,424 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:43,688 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:43,950 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:20:44,256 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:44,496 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:44,770 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:20:45,330 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:45,586 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:45,814 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:20:45,819 - INFO - ✅ Batch Operations: PASSED (3.709s)
+2025-09-11 21:20:45,820 - INFO - Running test: Metadata Filtering
+2025-09-11 21:20:46,082 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:46,340 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:46,609 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:46,881 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:47,229 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:47,539 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:20:47,541 - INFO - ✅ Metadata Filtering: PASSED (1.720s)
+2025-09-11 21:20:47,542 - INFO - Running test: Search Quality
+2025-09-11 21:20:47,947 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:48,254 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:48,577 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:48,842 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:49,094 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:49,377 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:20:49,380 - WARNING - ⚠️  Search Quality: WARNING (1.838s)
+2025-09-11 21:20:49,381 - INFO - Running test: Performance Benchmark
+2025-09-11 21:20:49,692 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:49,992 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:50,299 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:50,549 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:50,809 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:51,048 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:51,297 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:51,544 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:51,791 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:52,045 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:52,346 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:52,588 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:52,849 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:53,173 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:53,481 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:53,780 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:54,409 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:54,641 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:20:54,643 - WARNING - ⚠️  Performance Benchmark: WARNING (5.262s)
+2025-09-11 21:20:54,644 - INFO - Running test: Error Handling
+2025-09-11 21:20:54,907 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:55,171 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 422 Unprocessable Entity"
+2025-09-11 21:20:55,928 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:56,208 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:56,547 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:20:56,552 - WARNING - ⚠️  Error Handling: WARNING (1.908s)
+2025-09-11 21:20:56,554 - INFO - Running test: Data Integrity
+2025-09-11 21:20:56,815 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:57,066 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:57,330 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:57,628 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:57,876 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:58,142 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:58,409 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:58,798 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:20:59,290 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:20:59,292 - WARNING - ⚠️  Data Integrity: WARNING (2.737s)
+2025-09-11 21:21:21,481 - INFO - 🚀 Starting comprehensive vector database validation...
+2025-09-11 21:21:21,482 - INFO - Running test: Connection Validation
+2025-09-11 21:21:32,695 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/info "HTTP/1.1 200 OK"
+2025-09-11 21:21:32,697 - INFO - Debug - Info object attributes: ['dense_index', 'dimension', 'index_size', 'namespaces', 'pending_vector_count', 'similarity_function', 'sparse_index', 'vector_count']
+2025-09-11 21:21:32,697 - INFO - Debug - vectorCount: 0, dimension: 1024, similarityFunction: UNKNOWN
+2025-09-11 21:21:32,698 - WARNING - ⚠️  Connection Validation: FAIL (11.216s)
+2025-09-11 21:21:32,698 - INFO - Running test: Basic CRUD Operations
+2025-09-11 21:21:32,965 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:33,307 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:33,310 - WARNING - ⚠️  Basic CRUD Operations: FAIL (0.611s)
+2025-09-11 21:21:33,310 - INFO - Running test: Batch Operations
+2025-09-11 21:21:33,572 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:33,824 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:34,091 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:21:34,375 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:34,644 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:34,952 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:21:35,245 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:35,515 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:35,769 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:21:36,097 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:36,361 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:36,594 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:21:36,597 - INFO - ✅ Batch Operations: PASSED (3.286s)
+2025-09-11 21:21:36,599 - INFO - Running test: Metadata Filtering
+2025-09-11 21:21:36,861 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:37,129 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:37,405 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:37,649 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:37,919 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:38,225 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:21:38,232 - INFO - ✅ Metadata Filtering: PASSED (1.632s)
+2025-09-11 21:21:38,232 - INFO - Running test: Search Quality
+2025-09-11 21:21:38,532 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:38,839 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:39,149 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:39,453 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:39,741 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:40,056 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:21:40,062 - INFO - ✅ Search Quality: PASSED (1.829s)
+2025-09-11 21:21:40,065 - INFO - Running test: Performance Benchmark
+2025-09-11 21:21:40,380 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:40,685 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:40,990 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:41,296 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:41,603 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:41,916 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:42,218 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:42,529 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:42,832 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:43,142 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:43,445 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:43,753 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:44,065 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:44,306 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:44,553 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:44,882 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:45,311 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:45,569 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:21:45,573 - WARNING - ⚠️  Performance Benchmark: WARNING (5.508s)
+2025-09-11 21:21:45,574 - INFO - Running test: Error Handling
+2025-09-11 21:21:45,835 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:46,057 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 422 Unprocessable Entity"
+2025-09-11 21:21:46,656 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:46,911 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:47,129 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:21:47,131 - WARNING - ⚠️  Error Handling: WARNING (1.557s)
+2025-09-11 21:21:47,132 - INFO - Running test: Data Integrity
+2025-09-11 21:21:47,373 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:47,628 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:47,629 - INFO - Debug - CRUD test: Inserted vector ID: integrity_test_1
+2025-09-11 21:21:47,629 - INFO - Debug - CRUD test: Query results count: 5
+2025-09-11 21:21:47,629 - INFO - Debug - CRUD test: Result IDs: ['search_test_1', 'embed_speed_test_2', 'embed_speed_test_1', 'scalability_test_8', 'search_test_4']
+2025-09-11 21:21:47,630 - INFO - Debug - CRUD test: Checking result ID: search_test_1
+2025-09-11 21:21:47,630 - INFO - Debug - CRUD test: Checking result ID: embed_speed_test_2
+2025-09-11 21:21:47,630 - INFO - Debug - CRUD test: Checking result ID: embed_speed_test_1
+2025-09-11 21:21:47,631 - INFO - Debug - CRUD test: Checking result ID: scalability_test_8
+2025-09-11 21:21:47,631 - INFO - Debug - CRUD test: Checking result ID: search_test_4
+2025-09-11 21:21:47,957 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:48,262 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:48,568 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:48,877 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:49,136 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:49,387 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:21:49,947 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:21:49,948 - WARNING - ⚠️  Data Integrity: WARNING (2.816s)
+2025-09-11 21:23:59,286 - INFO - 🚀 Starting comprehensive vector database validation...
+2025-09-11 21:23:59,287 - INFO - 🧹 Cleaning up existing test data...
+2025-09-11 21:23:59,287 - WARNING - Could not query existing vectors: 'NoneType' object has no attribute 'query'
+2025-09-11 21:23:59,288 - INFO - Running test: Connection Validation
+2025-09-11 21:24:00,774 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/info "HTTP/1.1 200 OK"
+2025-09-11 21:24:00,778 - INFO - Debug - Info object attributes: ['dense_index', 'dimension', 'index_size', 'namespaces', 'pending_vector_count', 'similarity_function', 'sparse_index', 'vector_count']
+2025-09-11 21:24:00,779 - INFO - Debug - vectorCount: 201, dimension: 1024, similarityFunction: COSINE
+2025-09-11 21:24:00,779 - INFO - ✅ Connection Validation: PASSED (1.491s)
+2025-09-11 21:24:00,779 - INFO - Running test: Basic CRUD Operations
+2025-09-11 21:24:01,030 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:01,388 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:01,390 - WARNING - ⚠️  Basic CRUD Operations: FAIL (0.610s)
+2025-09-11 21:24:01,390 - INFO - Running test: Batch Operations
+2025-09-11 21:24:01,651 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:01,904 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:02,134 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:02,415 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:02,662 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:02,922 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:03,207 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:03,456 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:03,694 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:04,019 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:04,300 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:04,537 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:04,546 - INFO - ✅ Batch Operations: PASSED (3.156s)
+2025-09-11 21:24:04,547 - INFO - Running test: Metadata Filtering
+2025-09-11 21:24:04,804 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:05,047 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:05,288 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:05,540 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:05,798 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:06,023 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:06,027 - INFO - ✅ Metadata Filtering: PASSED (1.480s)
+2025-09-11 21:24:06,029 - INFO - Running test: Search Quality
+2025-09-11 21:24:06,289 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:06,548 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:06,797 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:07,054 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:07,327 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:07,633 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:07,636 - WARNING - ⚠️  Search Quality: FAIL (1.606s)
+2025-09-11 21:24:07,636 - INFO - Running test: Performance Benchmark
+2025-09-11 21:24:07,921 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:08,249 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:08,554 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:08,865 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:09,170 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:09,482 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:09,768 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:10,090 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:10,398 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:10,706 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:10,967 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:11,220 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:11,529 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:11,832 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:12,139 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:12,447 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:12,848 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:13,116 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:13,118 - WARNING - ⚠️  Performance Benchmark: WARNING (5.481s)
+2025-09-11 21:24:13,119 - INFO - Running test: Error Handling
+2025-09-11 21:24:13,382 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:13,648 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 422 Unprocessable Entity"
+2025-09-11 21:24:14,241 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:15,107 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:15,416 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:15,419 - WARNING - ⚠️  Error Handling: WARNING (2.299s)
+2025-09-11 21:24:15,419 - INFO - Running test: Data Integrity
+2025-09-11 21:24:15,722 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:16,033 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:16,036 - INFO - Debug - CRUD test: Inserted vector ID: integrity_test_1
+2025-09-11 21:24:16,037 - INFO - Debug - CRUD test: Query results count: 5
+2025-09-11 21:24:16,038 - INFO - Debug - CRUD test: Result IDs: ['search_test_1', 'embed_speed_test_2', 'embed_speed_test_1', 'scalability_test_8', 'search_test_4']
+2025-09-11 21:24:16,039 - INFO - Debug - CRUD test: Checking result ID: search_test_1
+2025-09-11 21:24:16,039 - INFO - Debug - CRUD test: Checking result ID: embed_speed_test_2
+2025-09-11 21:24:16,040 - INFO - Debug - CRUD test: Checking result ID: embed_speed_test_1
+2025-09-11 21:24:16,040 - INFO - Debug - CRUD test: Checking result ID: scalability_test_8
+2025-09-11 21:24:16,041 - INFO - Debug - CRUD test: Checking result ID: search_test_4
+2025-09-11 21:24:16,336 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:16,595 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:16,839 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:17,081 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:17,364 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:17,668 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:18,594 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:18,599 - WARNING - ⚠️  Data Integrity: WARNING (3.179s)
+2025-09-11 21:24:48,288 - INFO - 🚀 Starting comprehensive vector database validation...
+2025-09-11 21:24:48,289 - INFO - 🧹 Cleaning up existing test data...
+2025-09-11 21:24:49,729 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:49,737 - INFO - Found 100 existing test vectors to clean up: ['batch_perf_50_35', 'batch_perf_50_29', 'batch_perf_50_30', 'batch_perf_25_14', 'batch_perf_25_15', 'batch_perf_50_36', 'batch_perf_50_48', 'batch_perf_50_45', 'batch_perf_50_14', 'batch_perf_50_27']...
+2025-09-11 21:24:49,973 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:49,981 - INFO - Cleaned up batch of 50 test vectors
+2025-09-11 21:24:50,233 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:50,244 - INFO - Cleaned up batch of 50 test vectors
+2025-09-11 21:24:50,250 - INFO - Running test: Connection Validation
+2025-09-11 21:24:51,567 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/info "HTTP/1.1 200 OK"
+2025-09-11 21:24:51,570 - INFO - Debug - Info object attributes: ['dense_index', 'dimension', 'index_size', 'namespaces', 'pending_vector_count', 'similarity_function', 'sparse_index', 'vector_count']
+2025-09-11 21:24:51,571 - INFO - Debug - vectorCount: 101, dimension: 1024, similarityFunction: COSINE
+2025-09-11 21:24:51,572 - INFO - ✅ Connection Validation: PASSED (1.319s)
+2025-09-11 21:24:51,573 - INFO - Running test: Basic CRUD Operations
+2025-09-11 21:24:51,818 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:52,079 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:52,083 - WARNING - ⚠️  Basic CRUD Operations: FAIL (0.509s)
+2025-09-11 21:24:52,084 - INFO - Running test: Batch Operations
+2025-09-11 21:24:52,351 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:52,696 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:52,929 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:53,206 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:53,513 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:53,822 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:54,127 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:54,374 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:54,637 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:54,964 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:55,231 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:55,500 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:55,503 - INFO - ✅ Batch Operations: PASSED (3.418s)
+2025-09-11 21:24:55,503 - INFO - Running test: Metadata Filtering
+2025-09-11 21:24:55,865 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:56,172 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:56,481 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:56,795 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:57,101 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:57,341 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:57,349 - INFO - ✅ Metadata Filtering: PASSED (1.845s)
+2025-09-11 21:24:57,350 - INFO - Running test: Search Quality
+2025-09-11 21:24:57,614 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:57,915 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:58,531 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:58,836 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:59,149 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:59,378 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:24:59,381 - WARNING - ⚠️  Search Quality: FAIL (2.031s)
+2025-09-11 21:24:59,382 - INFO - Running test: Performance Benchmark
+2025-09-11 21:24:59,655 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:24:59,932 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:00,269 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:00,579 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:00,886 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:01,138 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:01,386 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:01,702 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:01,967 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:02,215 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:02,500 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:02,831 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:03,080 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:03,339 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:03,594 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:03,872 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:04,265 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:04,497 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:25:04,499 - WARNING - ⚠️  Performance Benchmark: WARNING (5.117s)
+2025-09-11 21:25:04,502 - INFO - Running test: Error Handling
+2025-09-11 21:25:04,748 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:04,974 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 422 Unprocessable Entity"
+2025-09-11 21:25:05,601 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:05,912 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:06,183 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:25:06,185 - WARNING - ⚠️  Error Handling: WARNING (1.683s)
+2025-09-11 21:25:06,186 - INFO - Running test: Data Integrity
+2025-09-11 21:25:06,515 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:06,824 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:06,830 - INFO - Debug - CRUD test: Inserted vector ID: integrity_test_1
+2025-09-11 21:25:06,831 - INFO - Debug - CRUD test: Query results count: 5
+2025-09-11 21:25:06,832 - INFO - Debug - CRUD test: Result IDs: ['search_test_1', 'embed_speed_test_2', 'embed_speed_test_1', 'scalability_test_8', 'search_test_4']
+2025-09-11 21:25:06,833 - INFO - Debug - CRUD test: Checking result ID: search_test_1
+2025-09-11 21:25:06,834 - INFO - Debug - CRUD test: Checking result ID: embed_speed_test_2
+2025-09-11 21:25:06,834 - INFO - Debug - CRUD test: Checking result ID: embed_speed_test_1
+2025-09-11 21:25:06,835 - INFO - Debug - CRUD test: Checking result ID: scalability_test_8
+2025-09-11 21:25:06,836 - INFO - Debug - CRUD test: Checking result ID: search_test_4
+2025-09-11 21:25:07,132 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:07,400 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:07,648 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:07,906 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:08,155 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:08,429 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:25:09,107 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:25:09,116 - WARNING - ⚠️  Data Integrity: WARNING (2.929s)
+2025-09-11 21:25:43,388 - INFO - 🚀 Starting comprehensive vector database validation...
+2025-09-11 21:25:43,389 - INFO - 🧹 Cleaning up existing test data...
+2025-09-11 21:26:05,710 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:05,714 - INFO - Found 100 existing test vectors to clean up: ['scalability_test_20', 'scalability_test_27', 'scalability_test_30', 'scalability_test_53', 'scalability_test_68', 'scalability_test_22', 'scalability_test_88', 'scalability_test_92', 'scalability_test_52', 'scalability_test_45']...
+2025-09-11 21:26:05,956 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:05,960 - INFO - Cleaned up batch of 50 test vectors
+2025-09-11 21:26:06,218 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:06,220 - INFO - Cleaned up batch of 50 test vectors
+2025-09-11 21:26:06,221 - INFO - Running test: Connection Validation
+2025-09-11 21:26:07,561 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/info "HTTP/1.1 200 OK"
+2025-09-11 21:26:07,565 - INFO - Debug - Info object attributes: ['dense_index', 'dimension', 'index_size', 'namespaces', 'pending_vector_count', 'similarity_function', 'sparse_index', 'vector_count']
+2025-09-11 21:26:07,565 - INFO - Debug - vectorCount: 1, dimension: 1024, similarityFunction: COSINE
+2025-09-11 21:26:07,566 - INFO - ✅ Connection Validation: PASSED (1.345s)
+2025-09-11 21:26:07,567 - INFO - Running test: Basic CRUD Operations
+2025-09-11 21:26:07,857 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:08,166 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:08,171 - WARNING - ⚠️  Basic CRUD Operations: FAIL (0.602s)
+2025-09-11 21:26:08,172 - INFO - Running test: Batch Operations
+2025-09-11 21:26:08,471 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:08,781 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:09,086 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:09,394 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:09,699 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:10,010 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:10,312 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:10,621 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:10,931 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:11,271 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:11,534 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:11,795 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:11,798 - INFO - ✅ Batch Operations: PASSED (3.625s)
+2025-09-11 21:26:11,798 - INFO - Running test: Metadata Filtering
+2025-09-11 21:26:12,064 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:12,375 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:12,680 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:12,981 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:13,283 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:13,595 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:13,597 - WARNING - ⚠️  Metadata Filtering: WARNING (1.798s)
+2025-09-11 21:26:13,599 - INFO - Running test: Search Quality
+2025-09-11 21:26:13,901 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:14,147 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:14,414 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:14,717 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:15,029 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:15,332 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:15,335 - INFO - ✅ Search Quality: PASSED (1.735s)
+2025-09-11 21:26:15,336 - INFO - Running test: Performance Benchmark
+2025-09-11 21:26:15,582 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:15,849 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:16,097 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:16,348 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:16,607 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:16,874 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:17,180 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:17,427 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:17,688 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:17,998 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:18,302 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:18,548 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:18,814 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:19,121 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:19,433 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:19,736 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:20,145 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:20,406 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:20,410 - WARNING - ⚠️  Performance Benchmark: WARNING (5.074s)
+2025-09-11 21:26:20,411 - INFO - Running test: Error Handling
+2025-09-11 21:26:20,663 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:20,932 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 422 Unprocessable Entity"
+2025-09-11 21:26:21,531 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:21,793 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:22,049 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:22,052 - WARNING - ⚠️  Error Handling: WARNING (1.640s)
+2025-09-11 21:26:22,052 - INFO - Running test: Data Integrity
+2025-09-11 21:26:22,319 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:22,603 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:22,605 - INFO - Debug - CRUD test: Inserted vector ID: integrity_test_1
+2025-09-11 21:26:22,606 - INFO - Debug - CRUD test: Query results count: 1
+2025-09-11 21:26:22,607 - INFO - Debug - CRUD test: Result IDs: ['search_test_4']
+2025-09-11 21:26:22,607 - INFO - Debug - CRUD test: Checking result ID: search_test_4
+2025-09-11 21:26:22,927 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:23,220 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:23,483 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:23,754 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:24,042 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:24,334 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:26:24,838 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:26:24,844 - WARNING - ⚠️  Data Integrity: WARNING (2.788s)
+2025-09-11 21:29:10,576 - INFO - 🚀 Starting comprehensive vector database validation...
+2025-09-11 21:29:10,577 - INFO - 🧹 Cleaning up existing test data...
+2025-09-11 21:29:22,123 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:22,133 - INFO - Found vectors using query term: 'test'
+2025-09-11 21:29:22,134 - INFO - Found 1 existing test vectors to clean up: ['search_test_4']...
+2025-09-11 21:29:22,431 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:29:22,434 - INFO - Cleaned up batch of 1 test vectors
+2025-09-11 21:29:22,435 - INFO - 🔍 Verifying cleanup...
+2025-09-11 21:29:22,734 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:22,997 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:23,349 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:23,594 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:23,964 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:24,249 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:24,582 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:24,585 - INFO - ✅ Cleanup verification successful - database is empty
+2025-09-11 21:29:24,586 - INFO - Running test: Connection Validation
+2025-09-11 21:29:26,898 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/info "HTTP/1.1 200 OK"
+2025-09-11 21:29:26,900 - INFO - Debug - Info object attributes: ['dense_index', 'dimension', 'index_size', 'namespaces', 'pending_vector_count', 'similarity_function', 'sparse_index', 'vector_count']
+2025-09-11 21:29:26,901 - INFO - Debug - vectorCount: 0, dimension: 1024, similarityFunction: COSINE
+2025-09-11 21:29:26,902 - INFO - ✅ Connection Validation: PASSED (2.315s)
+2025-09-11 21:29:26,902 - INFO - Running test: Basic CRUD Operations
+2025-09-11 21:29:27,240 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:27,550 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:27,553 - WARNING - ⚠️  Basic CRUD Operations: FAIL (0.650s)
+2025-09-11 21:29:27,554 - INFO - Running test: Batch Operations
+2025-09-11 21:29:27,855 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:28,162 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:28,469 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:29:28,780 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:29,083 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:29,399 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:29:29,706 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:29,952 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:30,215 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:29:30,538 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:30,814 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:31,049 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:29:31,051 - INFO - ✅ Batch Operations: PASSED (3.496s)
+2025-09-11 21:29:31,052 - INFO - Running test: Metadata Filtering
+2025-09-11 21:29:31,315 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:31,573 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:31,849 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:32,116 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:32,367 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:32,667 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:29:32,669 - WARNING - ⚠️  Metadata Filtering: WARNING (1.617s)
+2025-09-11 21:29:32,670 - INFO - Running test: Search Quality
+2025-09-11 21:29:32,980 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:33,221 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:33,488 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:33,737 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:34,000 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:34,306 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:29:34,310 - INFO - ✅ Search Quality: PASSED (1.640s)
+2025-09-11 21:29:34,311 - INFO - Running test: Performance Benchmark
+2025-09-11 21:29:34,614 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:34,923 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:35,228 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:35,538 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:35,843 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:36,151 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:36,456 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:36,723 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:36,988 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:37,281 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:37,553 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:37,817 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:38,069 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:38,331 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:38,578 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:38,864 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:39,298 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:39,531 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:29:39,533 - WARNING - ⚠️  Performance Benchmark: WARNING (5.220s)
+2025-09-11 21:29:39,534 - INFO - Running test: Error Handling
+2025-09-11 21:29:39,781 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:40,014 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 422 Unprocessable Entity"
+2025-09-11 21:29:40,769 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:41,025 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:41,247 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:29:41,248 - WARNING - ⚠️  Error Handling: WARNING (1.713s)
+2025-09-11 21:29:41,248 - INFO - Running test: Data Integrity
+2025-09-11 21:29:41,490 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:41,788 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:41,790 - INFO - Debug - CRUD test: Inserted vector ID: integrity_test_1
+2025-09-11 21:29:41,795 - INFO - Debug - CRUD test: Query results count: 0
+2025-09-11 21:29:42,089 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:42,398 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:42,704 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:42,965 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:43,213 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/upsert-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:43,477 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/query-data "HTTP/1.1 200 OK"
+2025-09-11 21:29:43,831 - INFO - HTTP Request: POST https://golden-termite-45105-us1-vector.upstash.io/delete "HTTP/1.1 200 OK"
+2025-09-11 21:29:43,833 - WARNING - ⚠️  Data Integrity: WARNING (2.585s)

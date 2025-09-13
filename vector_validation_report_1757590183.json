@@ -1,0 +1,263 @@
+{
+  "timestamp": "2025-09-11T21:29:43.834014",
+  "summary": {
+    "total_tests": 8,
+    "passed_tests": 3,
+    "failed_tests": 1,
+    "skipped_tests": 0,
+    "total_duration": 33.25638771057129
+  },
+  "test_results": [
+    {
+      "test_name": "Connection Validation",
+      "status": "PASS",
+      "duration": 2.3146755695343018,
+      "message": "Database connection and configuration validated",
+      "details": {
+        "vector_count": 0,
+        "dimension": 1024,
+        "similarity_function": "COSINE",
+        "connection_url": "https://golden-termite-45105-us1-vector.upstash.io..."
+      },
+      "error": null
+    },
+    {
+      "test_name": "Basic CRUD Operations",
+      "status": "FAIL",
+      "duration": 0.6499862670898438,
+      "message": "CREATE/READ test failed: No results returned",
+      "details": null,
+      "error": null
+    },
+    {
+      "test_name": "Batch Operations",
+      "status": "PASS",
+      "duration": 3.49621319770813,
+      "message": "Batch operations validated successfully",
+      "details": {
+        "batch_performance": {
+          "5": {
+            "insert_time": 0.30186963081359863,
+            "query_time": 0.3073091506958008,
+            "delete_time": 0.30678606033325195,
+            "insert_per_vector": 0.06037392616271973,
+            "results_found": 0
+          },
+          "10": {
+            "insert_time": 0.3123311996459961,
+            "query_time": 0.30284786224365234,
+            "delete_time": 0.3155539035797119,
+            "insert_per_vector": 0.03123311996459961,
+            "results_found": 0
+          },
+          "25": {
+            "insert_time": 0.31147265434265137,
+            "query_time": 0.24088287353515625,
+            "delete_time": 0.26291847229003906,
+            "insert_per_vector": 0.012458906173706055,
+            "results_found": 0
+          },
+          "50": {
+            "insert_time": 0.3294966220855713,
+            "query_time": 0.2694861888885498,
+            "delete_time": 0.23443150520324707,
+            "insert_per_vector": 0.006589932441711426,
+            "results_found": 0
+          }
+        },
+        "max_avg_insert_time": 0.06037392616271973,
+        "recommendation": "Consider optimizing if insert times exceed 500ms per vector"
+      },
+      "error": null
+    },
+    {
+      "test_name": "Metadata Filtering",
+      "status": "WARNING",
+      "duration": 1.616791009902954,
+      "message": "Some metadata filters may not be working correctly: Category Filter, Priority Filter, Type Filter",
+      "details": {
+        "Category Filter": {
+          "filter": "category = 'experience'",
+          "results_count": 0,
+          "expected_min": 2,
+          "passed": false
+        },
+        "Priority Filter": {
+          "filter": "priority = 'high'",
+          "results_count": 0,
+          "expected_min": 3,
+          "passed": false
+        },
+        "Type Filter": {
+          "filter": "type = 'technical'",
+          "results_count": 0,
+          "expected_min": 1,
+          "passed": false
+        },
+        "Complex Filter": {
+          "filter": "category = 'skills' AND priority = 'medium'",
+          "results_count": 1,
+          "expected_min": 1,
+          "passed": true
+        }
+      },
+      "error": null
+    },
+    {
+      "test_name": "Search Quality",
+      "status": "PASS",
+      "duration": 1.6399435997009277,
+      "message": "Search quality excellent (100.0% relevant results found)",
+      "details": {
+        "search_results": {
+          "AI/ML related content": {
+            "relevant_found": true,
+            "total_results": 5,
+            "avg_score": 0.76381044,
+            "max_score": 0.83676517,
+            "top_result_id": "test_research_1757590150_003"
+          },
+          "Web development content": {
+            "relevant_found": true,
+            "total_results": 5,
+            "avg_score": 0.755026282,
+            "max_score": 0.8567414,
+            "top_result_id": "test_projects_1757590150_002"
+          },
+          "Data engineering content": {
+            "relevant_found": true,
+            "total_results": 5,
+            "avg_score": 0.79328086,
+            "max_score": 0.8560921,
+            "top_result_id": "test_data_1757590150_005"
+          },
+          "Cloud computing content": {
+            "relevant_found": true,
+            "total_results": 5,
+            "avg_score": 0.745747022,
+            "max_score": 0.819839,
+            "top_result_id": "test_skills_1757590150_004"
+          }
+        },
+        "quality_score": 1.0,
+        "relevant_found": 4,
+        "total_searches": 4
+      },
+      "error": null
+    },
+    {
+      "test_name": "Performance Benchmark",
+      "status": "WARNING",
+      "duration": 5.220294237136841,
+      "message": "Performance benchmarking completed. 1 recommendations identified.",
+      "details": {
+        "performance_metrics": {
+          "embedding_speed": {
+            "avg_time": 0.30625505447387696,
+            "min_time": 0.3023805618286133,
+            "max_time": 0.31162190437316895,
+            "throughput": 3.2652522314053702
+          },
+          "query_performance": {
+            "avg_time": 0.2737210512161255,
+            "min_time": 0.24817252159118652,
+            "max_time": 0.30924463272094727,
+            "queries_per_second": 3.65335437503642
+          },
+          "concurrent_operations": {
+            "total_time": 0.28354692459106445,
+            "vectors_per_second": 70.5350623317262,
+            "avg_time_per_vector": 0.014177346229553222
+          },
+          "large_batch": {
+            "total_time": 0.43491649627685547,
+            "vectors_per_second": 229.92919527325273,
+            "avg_time_per_vector": 0.004349164962768555
+          }
+        },
+        "recommendations": [
+          "Query performance is slow (>200ms). Consider index optimization."
+        ]
+      },
+      "error": null
+    },
+    {
+      "test_name": "Error Handling",
+      "status": "WARNING",
+      "duration": 1.7130026817321777,
+      "message": "Error handling may need improvement (2/5 tests handle errors properly)",
+      "details": {
+        "error_tests": [
+          {
+            "test": "Invalid ID query",
+            "result": "Error handled: TypeError"
+          },
+          {
+            "test": "Empty query",
+            "result": "No error raised"
+          },
+          {
+            "test": "Invalid filter syntax",
+            "result": "Error handled: UpstashError"
+          },
+          {
+            "test": "Large vector",
+            "result": "No error raised"
+          },
+          {
+            "test": "Duplicate IDs",
+            "result": "No error raised"
+          }
+        ],
+        "proper_error_handling": 2,
+        "total_tests": 5
+      },
+      "error": null
+    },
+    {
+      "test_name": "Data Integrity",
+      "status": "WARNING",
+      "duration": 2.5848827362060547,
+      "message": "Data integrity checks completed with some variations: Data persistence, Similarity consistency",
+      "details": {
+        "integrity_tests": [
+          {
+            "test": "Data persistence",
+            "data_integrity": false,
+            "metadata_integrity": false,
+            "overall": false
+          },
+          {
+            "test": "Metadata consistency",
+            "consistent": true,
+            "query_count": 3,
+            "overall": true
+          },
+          {
+            "test": "Similarity consistency",
+            "exact_match_score": 0,
+            "high_similarity": false,
+            "overall": false
+          }
+        ],
+        "overall_integrity": false
+      },
+      "error": null
+    }
+  ],
+  "system_info": {
+    "python_version": "3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]",
+    "platform": "win32",
+    "timestamp": "2025-09-11T21:29:24.586702",
+    "working_directory": "C:\\Users\\sbina\\OneDrive\\Desktop\\digitaltwin",
+    "environment_variables": {
+      "UPSTASH_VECTOR_REST_URL": "***",
+      "UPSTASH_VECTOR_REST_TOKEN": "***"
+    }
+  },
+  "recommendations": [
+    "\u274c Critical: Fix failed tests before proceeding: Basic CRUD Operations",
+    "\u26a0\ufe0f  Address warnings in: Metadata Filtering, Performance Benchmark, Error Handling, Data Integrity",
+    "\ud83d\udd27 Optimize query performance (currently >200ms average)"
+  ]
+}

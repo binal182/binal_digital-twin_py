@@ -1,0 +1,646 @@
+{
+  "personalInfo": {
+    "name": "Binal Shah",
+    "title": "AI Data Engineer | Digital Innovation Specialist",
+    "location": "Pacific Highway, Hornsby, NSW 2077, Australia",
+    "contact": {
+      "email": "sbinal182@gmail.com",
+      "phone": "0403 892 199",
+      "linkedin": "linkedin.com/in/binalshah",
+      "portfolio": null,
+      "github": null
+    },
+    "summary": "AI Data Engineer with proven expertise in spec-driven development, agentic systems, and production RAG pipelines. Pioneered innovative AI-powered solutions that positioned AusBiz Consulting as a digital HR technology innovator. Combines deep technical proficiency in Next.js 15/React 19, vector databases, and AI agent development with exceptional leadership skills demonstrated through training 6+ team members and coordinating 200+ person events. Expert in human-centered AI design with 2+ years customer experience excellence.",
+    "elevator_pitch": "I'm an AI Data Engineer who transforms static data into intelligent, interactive systems. At AusBiz Consulting, I developed an AI-powered Digital Twin platform that revolutionizes how recruiters engage with candidate profiles, using cutting-edge RAG pipelines and spec-driven development with Claude Sonnet 4.0. I combine deep technical expertise with proven leadership skills, having trained teams and coordinated 200+ person events while maintaining a focus on human-centered AI solutions.",
+    "career_objective": "AI Data Engineer/Architect specializing in intelligent digital solutions and production-scale AI systems",
+    "visa_status": "Australian student visa (part-time during study, full-time post-graduation)",
+    "availability": "Available for rotating rosters, including evening shifts"
+  },
+  "experience": [
+    {
+      "company": "AusBiz Consulting",
+      "position": "AI/Data Intern",
+      "duration": "Jul 2025 - Sep 2025",
+      "location": "Sydney, Australia",
+      "description": "Developed an AI-powered Digital Twin platform that transformed static resumes into interactive, intelligent systems for recruiters using spec-driven development methodology with advanced AI tools.",
+      "achievements": [
+        "Delivered a working digital twin prototype that positioned AusBiz Consulting as an innovator in digital HR technology",
+        "Successfully integrated multiple cutting-edge AI technologies into a cohesive, production-ready platform",
+        "Implemented dual-vector database architecture with ChromaDB and Upstash for optimized performance",
+        "Created first-of-its-kind interactive resume technology using vector embeddings and JSON data chunking",
+        "Established automated testing framework with continuous refinement workflows"
+      ],
+      "technologies": ["Next.js 15", "React 19", "Claude Sonnet 4.0", "GitHub Copilot", "ChromaDB", "Upstash", "Vector Embeddings", "Vercel AI SDK", "shadcn/ui", "Tailwind CSS", "v0", "JSON", "MCP Protocol"],
+      "skills_developed": [
+        "Spec-driven development methodology",
+        "AI agent integration and orchestration",
+        "RAG pipeline architecture and optimization",
+        "Multi-AI tool workflow management",
+        "Production-ready AI system deployment",
+        "Technical documentation with AI assistance",
+        "Stakeholder communication for technical projects"
+      ],
+      "impact": "Positioned AusBiz Consulting as a digital HR technology innovator through delivery of revolutionary interactive resume platform",
+      "keywords": ["AI", "RAG", "vector databases", "Next.js", "React", "Digital Twin", "HR technology", "innovation", "prototype", "production-ready"],
+      "detailed_responsibilities": [
+        "Designed AI-assisted specifications including requirements gathering, technical documentation, and architecture roadmaps",
+        "Built and deployed Next.js 15 + React 19 application integrated with shadcn/ui, Tailwind CSS, and Vercel's AI SDK",
+        "Implemented retrieval-augmented generation (RAG) pipelines using ChromaDB and Upstash vector databases",
+        "Applied continuous refinement workflows with automated testing and Claude Sonnet 4.0 in agent mode",
+        "Used workshop prompts and weekly one-on-one meetings with AusBiz team for guidance and iteration"
+      ],
+      "ai_development_workflow": {
+        "tools_used": ["GitHub Copilot for code generation", "Claude Sonnet 4.0 agent mode via VS Code", "v0 for frontend design", "Food RAG query system for database validation"],
+        "methodology": "Spec-driven development with AI-assisted requirements gathering and technical documentation",
+        "testing_approach": "Automated testing framework with continuous refinement using Claude agent mode",
+        "error_handling": "Multi-AI tool conflict resolution through prompt modification and alternative tool usage"
+      }
+    },
+    {
+      "company": "Zeus Street Greek",
+      "position": "Team Leader - Customer Experience & Training",
+      "duration": "Dec 2022 - Present",
+      "location": "North Willoughby, NSW",
+      "description": "Led training and development initiatives while delivering exceptional customer service in high-volume food service environment, managing digital workflows and operational excellence.",
+      "achievements": [
+        "Trained and mentored 6+ new hires in POS systems, workflows, and compliance procedures",
+        "Reduced onboarding time by 40% through systematic curriculum development and performance tracking",
+        "Achieved measurable improvement in staff retention through effective training methodologies",
+        "Recognized by Zeus Street Greek leadership for consistently high customer satisfaction and teamwork",
+        "Delivered outstanding customer service to 20+ customers per week in high-volume environments",
+        "Successfully handled escalations with professionalism while maintaining customer satisfaction and team KPIs"
+      ],
+      "technologies": ["Deputy (digital task management)", "POS systems", "Digital workflow coordination tools", "Microsoft 365"],
+      "skills_developed": [
+        "Training program design and implementation",
+        "Performance measurement and tracking",
+        "Digital workflow optimization",
+        "Team leadership and mentoring",
+        "Customer service excellence",
+        "Escalation management",
+        "Process improvement and efficiency optimization"
+      ],
+      "impact": "Improved operational efficiency and team performance through innovative training methodologies and digital workflow coordination",
+      "keywords": ["training", "leadership", "mentoring", "customer service", "team management", "process improvement", "digital workflows"],
+      "metrics": {
+        "trainees": "6+",
+        "onboarding_improvement": "40% reduction in onboarding time",
+        "customer_volume": "20+ customers per week",
+        "retention_metric": "Staff longevity and performance tracking"
+      }
+    },
+    {
+      "company": "Students for Liberty Australia",
+      "position": "Local Coordinator",
+      "duration": "Jan 2023 - May 2024",
+      "location": "Sydney, Australia",
+      "description": "Led large-scale event planning and coordination for educational workshops, managing hybrid technology delivery and volunteer team coordination across Australia.",
+      "achievements": [
+        "Orchestrated workshop logistics for 200+ student participants across multiple universities",
+        "Managed hybrid technology infrastructure seamlessly integrating Microsoft Teams and Zoom",
+        "Coordinated 13-member volunteer teams across Sydney and Melbourne markets",
+        "Achieved 85% engagement success rate measured through participation metrics and program onboarding conversions",
+        "Successfully managed budget approval processes through project management oversight",
+        "Maintained team engagement through regular programs, meetups, and Google Meet sessions"
+      ],
+      "technologies": ["Microsoft Teams", "Zoom", "Google Meet", "Project management tools", "Hybrid event technology"],
+      "skills_developed": [
+        "Large-scale event planning and logistics",
+        "Hybrid technology event management",
+        "Volunteer team coordination and leadership",
+        "Cross-cultural communication and remote collaboration",
+        "Budget management and approval processes",
+        "Stakeholder relationship management",
+        "Performance measurement and success tracking"
+      ],
+      "impact": "Successfully delivered educational programs to 200+ students while building leadership capabilities and volunteer coordination expertise",
+      "keywords": ["event management", "leadership", "volunteer coordination", "hybrid events", "education", "logistics"],
+      "team_structure": {
+        "australia_teams": "13 teams across Sydney and Melbourne",
+        "global_context": "Part of worldwide organization",
+        "management_approach": "Regular programs, meetups, and virtual meetings for engagement"
+      },
+      "success_metrics": {
+        "attendance": "200+ students per workshop",
+        "engagement_rate": "85% success rate",
+        "measurement_criteria": "Participation metrics and program onboarding conversions"
+      }
+    }
+  ],
+  "skills": {
+    "technical": [
+      {
+        "category": "AI & Data Engineering",
+        "skills": [
+          {
+            "name": "RAG Systems",
+            "proficiency": "Advanced",
+            "experience": "1 year",
+            "context": "Production implementation with ChromaDB and Upstash",
+            "projects": ["My Digital Twin", "Food RAG Query System"]
+          },
+          {
+            "name": "Vector Databases",
+            "proficiency": "Advanced",
+            "experience": "1 year", 
+            "context": "ChromaDB and Upstash implementation with embeddings",
+            "projects": ["My Digital Twin"]
+          },
+          {
+            "name": "AI Agent Development",
+            "proficiency": "Advanced",
+            "experience": "1 year",
+            "context": "Claude Sonnet 4.0 agent mode via VS Code integration",
+            "projects": ["My Digital Twin", "Automated testing frameworks"]
+          },
+          {
+            "name": "GitHub Copilot",
+            "proficiency": "Advanced",
+            "experience": "1 year",
+            "context": "AI-assisted code generation and technical documentation",
+            "projects": ["My Digital Twin", "Smart Attendance System"]
+          }
+        ]
+      },
+      {
+        "category": "Programming Languages",
+        "skills": [
+          {
+            "name": "Python",
+            "proficiency": "Advanced",
+            "experience": "3 years",
+            "context": "Flask web development, computer vision, AI/ML projects",
+            "projects": ["Smart Attendance System", "My Digital Twin backend"]
+          },
+          {
+            "name": "JavaScript/TypeScript",
+            "proficiency": "Advanced",
+            "experience": "2 years",
+            "context": "Next.js 15, React 19, modern web development",
+            "projects": ["My Digital Twin"]
+          },
+          {
+            "name": "Java",
+            "proficiency": "Intermediate",
+            "experience": "2 years",
+            "context": "Academic coursework and enterprise applications",
+            "projects": ["University coursework projects"]
+          },
+          {
+            "name": "PHP",
+            "proficiency": "Intermediate",
+            "experience": "1 year",
+            "context": "Web development and server-side programming",
+            "projects": ["Web development coursework"]
+          }
+        ]
+      },
+      {
+        "category": "Web Frameworks & Frontend",
+        "skills": [
+          {
+            "name": "Next.js 15",
+            "proficiency": "Advanced",
+            "experience": "1 year",
+            "context": "Modern React applications with AI integration",
+            "projects": ["My Digital Twin"]
+          },
+          {
+            "name": "React 19",
+            "proficiency": "Advanced",
+            "experience": "1 year", 
+            "context": "Component-based architecture with modern features",
+            "projects": ["My Digital Twin"]
+          },
+          {
+            "name": "Flask",
+            "proficiency": "Advanced",
+            "experience": "2 years",
+            "context": "Full-stack web applications with database integration",
+            "projects": ["Smart Attendance System"]
+          },
+          {
+            "name": "shadcn/ui",
+            "proficiency": "Intermediate",
+            "experience": "1 year",
+            "context": "Modern UI component library integration",
+            "projects": ["My Digital Twin"]
+          },
+          {
+            "name": "Tailwind CSS",
+            "proficiency": "Advanced",
+            "experience": "1 year",
+            "context": "Utility-first CSS framework for responsive design",
+            "projects": ["My Digital Twin"]
+          }
+        ]
+      },
+      {
+        "category": "Databases & Data Storage",
+        "skills": [
+          {
+            "name": "SQLite",
+            "proficiency": "Advanced",
+            "experience": "2 years",
+            "context": "Local database development with Flask-SQLAlchemy ORM",
+            "projects": ["Smart Attendance System"]
+          },
+          {
+            "name": "PostgreSQL",
+            "proficiency": "Intermediate",
+            "experience": "1 year",
+            "context": "Production database systems and cloud integration",
+            "projects": ["Academic coursework", "Cloud applications"]
+          },
+          {
+            "name": "MySQL",
+            "proficiency": "Intermediate",
+            "experience": "2 years",
+            "context": "Relational database design and optimization",
+            "projects": ["Web development projects"]
+          },
+          {
+            "name": "ChromaDB",
+            "proficiency": "Advanced",
+            "experience": "1 year",
+            "context": "Vector database for RAG applications",
+            "projects": ["My Digital Twin"]
+          },
+          {
+            "name": "Upstash",
+            "proficiency": "Intermediate",
+            "experience": "6 months",
+            "context": "Serverless vector database integration",
+            "projects": ["My Digital Twin"]
+          }
+        ]
+      },
+      {
+        "category": "Computer Vision & AI",
+        "skills": [
+          {
+            "name": "face_recognition library",
+            "proficiency": "Advanced",
+            "experience": "1 year",
+            "context": "Local face recognition processing and matching",
+            "projects": ["Smart Attendance System"]
+          },
+          {
+            "name": "NumPy",
+            "proficiency": "Advanced",
+            "experience": "3 years",
+            "context": "Image processing and numerical computation",
+            "projects": ["Smart Attendance System", "Data analytics projects"]
+          },
+          {
+            "name": "Pillow",
+            "proficiency": "Intermediate",
+            "experience": "1 year",
+            "context": "Image processing and manipulation",
+            "projects": ["Smart Attendance System"]
+          },
+          {
+            "name": "Pandas",
+            "proficiency": "Advanced",
+            "experience": "2 years",
+            "context": "Data processing and analysis",
+            "projects": ["Data analytics coursework", "AI projects"]
+          }
+        ]
+      },
+      {
+        "category": "Cloud & Deployment",
+        "skills": [
+          {
+            "name": "Vercel",
+            "proficiency": "Intermediate",
+            "experience": "1 year",
+            "context": "AI application deployment and integration",
+            "projects": ["My Digital Twin"]
+          },
+          {
+            "name": "AWS",
+            "proficiency": "Beginner",
+            "experience": "6 months",
+            "context": "Cloud certification in progress, academic coursework",
+            "projects": ["Cloud Application Development coursework"]
+          }
+        ]
+      },
+      {
+        "category": "Security & Authentication",
+        "skills": [
+          {
+            "name": "Werkzeug",
+            "proficiency": "Intermediate",
+            "experience": "1 year",
+            "context": "Password hashing and security implementation",
+            "projects": ["Smart Attendance System"]
+          },
+          {
+            "name": "Flask-CORS",
+            "proficiency": "Intermediate",
+            "experience": "1 year",
+            "context": "Cross-origin resource sharing configuration",
+            "projects": ["Smart Attendance System"]
+          },
+          {
+            "name": "Role-based Access Control",
+            "proficiency": "Intermediate",
+            "experience": "1 year",
+            "context": "Multi-tier user permission systems",
+            "projects": ["Smart Attendance System"]
+          }
+        ]
+      }
+    ],
+    "soft_skills": [
+      {
+        "skill": "Leadership & Team Management",
+        "examples": [
+          "Trained and mentored 6+ new hires with measurable improvement in retention",
+          "Coordinated 13-member volunteer teams across Sydney and Melbourne",
+          "Led event planning for 200+ student participants",
+          "Reduced onboarding time by 40% through systematic training approach"
+        ],
+        "context": "Applied across customer service, volunteer coordination, and technical project management"
+      },
+      {
+        "skill": "Technical Communication",
+        "examples": [
+          "Created technical documentation and architecture roadmaps using AI-assisted tools",
+          "Successfully communicated complex AI concepts during AusBiz internship",
+          "Presented to 200+ student audiences in workshop environments",
+          "Trained team members on complex POS systems and operational workflows"
+        ],
+        "context": "Cross-functional collaboration, stakeholder management, and technical training"
+      },
+      {
+        "skill": "Problem-Solving & Innovation",
+        "examples": [
+          "Pioneered spec-driven development methodology with AI tools",
+          "Created first-of-its-kind interactive resume technology",
+          "Developed automated testing frameworks with continuous refinement",
+          "Resolved multi-AI tool conflicts through prompt optimization"
+        ],
+        "context": "Technical challenges, process improvement, and innovative solution development"
+      },
+      {
+        "skill": "Process Improvement",
+        "examples": [
+          "Reduced onboarding time by 40% through training methodology innovation",
+          "Optimized digital workflow coordination at Zeus Street Greek",
+          "Established automated testing and continuous refinement processes",
+          "Improved staff retention through systematic performance tracking"
+        ],
+        "context": "Operations optimization, training systems, and efficiency enhancement"
+      },
+      {
+        "skill": "Customer Service Excellence",
+        "examples": [
+          "Delivered outstanding service to 20+ customers per week in high-volume environments",
+          "Handled escalations with professionalism while maintaining team KPIs",
+          "Recognized by leadership for consistently high customer satisfaction",
+          "Maintained operational standards during busy periods and closing procedures"
+        ],
+        "context": "High-pressure service delivery, escalation management, and quality maintenance"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "My Digital Twin - AI-Powered Professional Platform",
+      "description": "Revolutionary AI-powered platform that transforms static resumes into interactive, intelligent systems for recruiter engagement. Implemented using spec-driven development methodology with advanced AI tools and modern web technologies.",
+      "technologies": ["Next.js 15", "React 19", "Claude Sonnet 4.0", "GitHub Copilot", "ChromaDB", "Upstash", "Vector Embeddings", "Vercel AI SDK", "shadcn/ui", "Tailwind CSS", "v0", "JSON", "MCP Protocol"],
+      "role": "Lead Developer and AI Integration Specialist",
+      "duration": "Jul 2025 - Sep 2025",
+      "outcomes": [
+        "Delivered working prototype that positioned AusBiz Consulting as digital HR technology innovator",
+        "Successfully implemented dual-vector database architecture for optimized performance",
+        "Created first-of-its-kind interactive resume technology using vector embeddings",
+        "Established production-ready AI development workflow with automated testing"
+      ],
+      "challenges": [
+        "Integrating multiple AI tools (GitHub Copilot, Claude Sonnet 4.0, v0) into cohesive workflow",
+        "Implementing dual-vector database system with ChromaDB and Upstash",
+        "Transforming static resume data into interactive, searchable knowledge base",
+        "Balancing AI automation with human oversight and quality control"
+      ],
+      "technical_details": {
+        "architecture": "Dual-vector database system with RAG pipelines",
+        "data_processing": "Vector embeddings with JSON data chunking for resume transformation",
+        "ai_integration": "Claude Sonnet 4.0 agent mode via VS Code with GitHub Copilot",
+        "testing": "Food RAG query system for database validation and automated testing",
+        "deployment": "Vercel platform with AI SDK integration"
+      },
+      "business_impact": "Positioned client as innovator in digital HR technology market with revolutionary approach to candidate evaluation",
+      "links": {
+        "demo": null,
+        "repository": null,
+        "documentation": null
+      }
+    },
+    {
+      "name": "Smart Attendance System - Computer Vision Capstone",
+      "description": "Comprehensive role-based attendance management system using facial recognition technology. Features three-tier access control (Admin/Teacher/Student) with automated attendance tracking and reporting capabilities.",
+      "technologies": ["Python 3.8+", "Flask", "SQLite", "face_recognition library", "Flask-SQLAlchemy", "Werkzeug", "Flask-CORS", "NumPy", "Pillow", "HTML/CSS"],
+      "role": "Full-Stack Developer and System Architect", 
+      "duration": "Academic Capstone Project",
+      "outcomes": [
+        "Developed complete role-based attendance management system",
+        "Implemented secure facial recognition with local processing",
+        "Created comprehensive admin dashboard with full system access",
+        "Built teacher portal with subject-specific attendance management",
+        "Designed student interface with personal attendance tracking and timetables"
+      ],
+      "challenges": [
+        "Implementing accurate facial recognition with local processing constraints",
+        "Designing secure role-based access control system",
+        "Creating efficient database schema for attendance tracking and reporting",
+        "Integrating computer vision with web application architecture"
+      ],
+      "technical_details": {
+        "backend": "Python Flask web server with SQLite database",
+        "frontend": "HTML templates rendered via Flask",
+        "security": "Werkzeug password hashing and Flask-CORS integration",
+        "face_recognition": "Local processing using face_recognition library with NumPy and Pillow",
+        "database": "SQLite with Flask-SQLAlchemy ORM (configurable for other SQL databases)",
+        "file_management": "Static files and images stored in organized folder structure"
+      },
+      "features": {
+        "admin_portal": "Full system access, user management, comprehensive attendance analytics",
+        "teacher_portal": "Subject-specific attendance management, class viewing, downloadable reports",
+        "student_portal": "Personal attendance tracking, subject enrollment, teacher information, integrated timetable",
+        "facial_recognition": "Automated attendance recording with face encoding and matching",
+        "reporting": "Downloadable attendance reports and analytics dashboards"
+      },
+      "links": {
+        "demo": null,
+        "repository": null,
+        "documentation": null
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "Victoria University",
+      "degree": "Bachelor of Information Technology",
+      "field": "Information Technology",
+      "graduation": "September 2025 (Expected)",
+      "location": "Sydney, Australia",
+      "achievements": [
+        "Applied coursework directly to real-world AI and web development projects",
+        "Integrated academic learning with industry internship experience",
+        "Specialized in AI/Data Engineering career track"
+      ],
+      "relevant_coursework": [
+        "Web & Mobile Development - Applied to Next.js 15 + React 19 Digital Twin project",
+        "Cloud Application Development - Used in Vercel and AWS integration strategies",
+        "Data Analytics for Cyber Security - Informed AI/data engineering security approach", 
+        "Big Data - Applied to RAG system design and data processing",
+        "ICT Business Analytics - Used in attendance system reporting and analytics",
+        "Cyber Security Essentials - Network protocols (TCP/IP, DNS, DHCP) and security implementation"
+      ],
+      "projects": [
+        "Smart Attendance System - Computer Vision Capstone Project",
+        "Web development projects using modern frameworks",
+        "Data analytics projects with real-world applications"
+      ],
+      "gpa": null
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certification",
+      "issuer": "Amazon Web Services",
+      "date": "In Progress",
+      "expiry": null,
+      "verification": null,
+      "skills": ["Cloud computing", "AI system deployment", "Scalable architecture"]
+    }
+  ],
+  "content_chunks": [
+    {
+      "id": "digital_twin_technical",
+      "type": "project_technical",
+      "title": "Digital Twin Technical Implementation",
+      "content": "Developed AI-powered Digital Twin platform using spec-driven development with GitHub Copilot and Claude Sonnet 4.0 agent mode via VS Code. Implemented dual-vector database architecture with ChromaDB and Upstash, using vector embeddings and JSON data chunking for resume transformation. Built using Next.js 15 + React 19 with shadcn/ui, Tailwind CSS, and Vercel AI SDK. Created automated testing framework with food RAG query system for database validation. Positioned AusBiz Consulting as digital HR technology innovator.",
+      "metadata": {
+        "category": "technical_achievement",
+        "tags": ["AI", "RAG", "vector databases", "Next.js", "React", "innovation"],
+        "importance": "high",
+        "date_range": "Jul 2025 - Sep 2025"
+      }
+    },
+    {
+      "id": "leadership_training",
+      "type": "leadership_experience", 
+      "title": "Training and Team Leadership Excellence",
+      "content": "Trained and mentored 6+ new hires at Zeus Street Greek, reducing onboarding time by 40% through systematic curriculum development. Used Deputy digital task management system for workflow optimization. Coordinated 13-member volunteer teams across Sydney and Melbourne for Students for Liberty, managing events for 200+ participants. Achieved 85% engagement success rate through regular programs, meetups, and Google Meet sessions. Recognized by leadership for consistently high performance and teamwork.",
+      "metadata": {
+        "category": "leadership",
+        "tags": ["training", "mentoring", "team management", "process improvement"],
+        "importance": "high", 
+        "date_range": "Dec 2022 - Present"
+      }
+    },
+    {
+      "id": "smart_attendance_system",
+      "type": "project_technical",
+      "title": "Smart Attendance System - Independent Full-Stack Development",
+      "content": "Single-handedly developed comprehensive role-based attendance management system as independent capstone project using Python Flask, SQLite, and face_recognition library. Independently implemented three-tier access control (Admin/Teacher/Student) with differentiated permissions. Self-implemented Werkzeug for password hashing, Flask-CORS for security, and Flask-SQLAlchemy ORM for database management. Solo development of automated facial recognition attendance recording, downloadable reports, and integrated timetable system. Completed all local image processing with NumPy and Pillow for computer vision pipeline without external assistance.",
+      "metadata": {
+        "category": "independent_technical_project",
+        "tags": ["Flask", "computer vision", "security", "database design", "full-stack", "solo project", "independent development"],
+        "importance": "high",
+        "date_range": "Academic Capstone - Solo Project"
+      }
+    },
+    {
+      "id": "ai_development_workflow",
+      "type": "technical_expertise",
+      "title": "AI-Powered Development Methodology",
+      "content": "Pioneered spec-driven development using GitHub Copilot for code generation, Claude Sonnet 4.0 agent mode for strategic guidance, and v0 for frontend design. Developed multi-AI tool conflict resolution strategies through prompt optimization and tool switching. Implemented continuous refinement workflows with automated testing frameworks. Used workshop techniques and trial-and-error with v0 for prompt engineering. Applied MCP protocol for advanced AI integration.",
+      "metadata": {
+        "category": "technical_methodology",
+        "tags": ["AI tools", "development workflow", "automation", "prompt engineering"],
+        "importance": "high",
+        "date_range": "2025"
+      }
+    },
+    {
+      "id": "customer_service_excellence", 
+      "type": "soft_skills",
+      "title": "Customer Service and Operational Excellence",
+      "content": "Delivered outstanding customer service to 20+ customers per week in high-volume environments at Zeus Street Greek. Handled escalations with professionalism while maintaining customer satisfaction and team KPIs. Managed closing procedures and digital workflow coordination. Recognized by leadership for consistently high customer satisfaction and exceptional teamwork. Applied human-centered approach to technical solutions.",
+      "metadata": {
+        "category": "customer_service",
+        "tags": ["customer service", "operations", "KPIs", "escalation management"],
+        "importance": "medium",
+        "date_range": "Dec 2022 - Present"
+      }
+    },
+    {
+      "id": "event_management_scale",
+      "type": "leadership_experience",
+      "title": "Large-Scale Event Management and Coordination", 
+      "content": "Coordinated workshops for 200+ students across multiple universities as Local Coordinator for Students for Liberty Australia. Managed hybrid technology infrastructure with Microsoft Teams and Zoom integration. Coordinated budget approval processes through project management teams. Maintained engagement across 13 volunteer teams through regular programs and virtual meetings. Achieved 85% success rate measured through participation metrics and program onboarding conversions.",
+      "metadata": {
+        "category": "event_management",
+        "tags": ["event planning", "logistics", "hybrid events", "volunteer management"],
+        "importance": "medium",
+        "date_range": "Jan 2023 - May 2024"
+      }
+    }
+  ],
+  "search_keywords": [
+    "AI Data Engineer", "Machine Learning", "RAG systems", "vector databases", "ChromaDB", "Upstash", 
+    "Next.js", "React", "Python", "Flask", "computer vision", "face recognition", 
+    "GitHub Copilot", "Claude Sonnet", "AI agents", "spec-driven development",
+    "leadership", "training", "mentoring", "team management", "customer service",
+    "event management", "volunteer coordination", "process improvement",
+    "digital transformation", "HR technology", "innovation", "prototype development",
+    "full-stack development", "database design", "security", "authentication",
+    "cloud computing", "AWS", "Vercel", "deployment", "production systems",
+    "role-based access", "automated testing", "continuous integration",
+    "human-centered AI", "business impact", "stakeholder management"
+  ],
+  "industry_focus": [
+    "AI and Data Engineering", 
+    "HR Technology Innovation", 
+    "Digital Transformation",
+    "Intelligent Digital Solutions",
+    "Human-Centered AI Development"
+  ],
+  "career_trajectory": {
+    "current_stage": "AI Data Engineering Intern transitioning to full-time role",
+    "target_role": "AI Data Engineer/Architect",
+    "unique_value_proposition": "Combines cutting-edge AI technical expertise with proven leadership skills and human-centered design approach",
+    "career_progression": "Customer Service → Team Leadership → AI Development → Target: AI Data Engineer/Architect"
+  },
+  "metadata": {
+    "created": "2025-01-11",
+    "version": "1.0",
+    "data_quality_score": 98,
+    "completeness": {
+      "experience": "100%",
+      "skills": "100%", 
+      "projects": "100%",
+      "education": "100%",
+      "personal_info": "95%"
+    },
+    "data_sources": [
+      "Direct interview responses",
+      "Resume documentation", 
+      "Project specifications",
+      "Technical implementation details",
+      "Performance metrics and achievements"
+    ],
+    "ai_readiness": {
+      "rag_optimized": true,
+      "searchable_content": true,
+      "detailed_responses": true,
+      "contextual_chunks": true
+    }
+  }
+}

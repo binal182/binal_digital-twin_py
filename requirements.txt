@@ -1,0 +1,7 @@
+upstash-vector
+groq
+python-dotenv
+requests
+psycopg2-binary
+pgvector
+tenacity
